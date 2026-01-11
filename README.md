@@ -56,7 +56,7 @@ First math library is imported which calculates the value of log10 base 10 value
 3. printing the value of log10 base 10
 4. End
 # CODE-7
-Initiallzing the value of a and b and then checking wheather a is greater than b or not by using if else statement.
+Initiallizing the value of a and b and then checking wheather a is greater than b or not by using if else statement.
 # ALGORITHM
 1. Start
 2. initiallising the values of a and b
@@ -64,36 +64,58 @@ Initiallzing the value of a and b and then checking wheather a is greater than b
 4. End 
 # DIFFERENT DATA TYPES IN PYTHON:
 1.int – whole numbers (e.g., 10, -5)
+
 2.float – decimal numbers (e.g., 3.14)
+
 3.complex – complex numbers (e.g., 2+3j)
+
 4.bool – True or False
+
 5.str – text / characters (e.g., "Hello")
+
 6.list – ordered, changeable collection (e.g., [1, 2, 3])
+
 7.tuple – ordered, unchangeable collection (e.g., (1, 2, 3))
+
 8.set – unordered, unique values (e.g., {1, 2, 3})
+
 9.dict – key–value pairs (e.g., {"a": 1})
 # FEATURES OF PYTHON:
 Simple and readable syntax – code looks close to English.
+
 Interpreted language – no need to compile; runs line by line.
+
 High-level language – no need to manage memory manually.
+
+
 Object-oriented – supports classes and objects.
+
 Portable – runs on Windows, Linux, macOS, etc.
+
 Free and open source
+
 Large standard library – provides built-in modules for many tasks.
 # APPLICATIONS OF PYTHON
 Web development 
+
 Data science and Machine Learning
+
 Artificial Intelligence
+
 Automation and scripting
+
 Game development
+
 Scientific computing
+
 Desktop applications
 # ADVANTAGES OF PYTHON
 Easy to learn and use
+
 Requires fewer lines of code
+
 Faster development
+
 Large community support
 # CONCLUSION
-Python is a powerful, simple, and versatile programming language that is easy to learn and widely used in many fields such as web development, data science, artificial intelligence, automation, and software development. Its clear syntax helps beginners understand programming concepts quickly, while its large collection of libraries makes it useful for solving real-world problems efficiently. With strong community support and cross-platform compatibility, Python is an excellent choice for students and professionals to start their programming journey and build reliable, scalable applications.                                                          
-Python is a versatile and beginner-friendly programming language widely used in modern technology fields such as AI, data science, and web development.
-NoneType – represents no value (None)
+Python is a powerful, simple, and versatile programming language that is easy to learn and widely used in many fields such as web development, data science, artificial intelligence, automation, and software development. Its clear syntax helps beginners understand programming concepts quickly, while its large collection of libraries makes it useful for solving real-world problems efficiently. With strong community support and cross-platform compatibility, Python is an excellent choice for students and professionals to start their programming journey and build reliable, scalable applications.                                      
