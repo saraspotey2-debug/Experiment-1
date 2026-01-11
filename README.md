@@ -12,7 +12,7 @@ Python is a high-level, interpreted, and general-purpose programming language cr
 7. Functions
 8. Basic Problem Sloving
 # CODE-1
-In code 1,variables are declared with strings and we want want only the string of x so print x.
+In code 1,variables are declared with strings and we want only the string of x so print x.
 # ALGORITHM
 1. Start
 2. Initiallising the strings to variables
