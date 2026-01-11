@@ -56,7 +56,7 @@ First math library is imported which calculates the value of log10 base 10 value
 3. printing the value of log10 base 10
 4. End
 # CODE-7
-Initiallizing the value of a and b and then checking wheather a is greater than b or not by using if else statement.
+Initiallizing the value of a and b and then checking wheather b is greater than a or not by using if else statement.
 # ALGORITHM
 1. Start
 2. initiallising the values of a and b
