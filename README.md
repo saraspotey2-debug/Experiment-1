@@ -49,7 +49,7 @@ First value of r is taken from the user and then math library is imported which 
 5. Printing the area
 6. End
 # CODE-6
-First math library is impported which calculates the value of log10 base 10 value.
+First math library is imported which calculates the value of log10 base 10 value.
 # ALGORITHM
 1. Start
 2. importing math library
