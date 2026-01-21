@@ -22,9 +22,9 @@ Python is a high-level, interpreted, and general-purpose programming language cr
 
    h) Basic Problem Sloving
 
-3. Python Execution Modes-Interactive Mode-Commands are executed one line at a time, Immediate output is displayed and Useful for testing small code snippets and learning.
+3. Python Execution Modes-Interactive Mode-Commands are executed one line at a time, immediate output is displayed and useful for testing small code snippets and learning.
 
-4. Variables and Identifiers-A variable is a named memory location used to store data values.Rules for Identifiers:Must start with a letter (A–Z, a–z) or underscore _, Cannot start with a digit, Case-sensitive and Should not use Python keywords
+4. Variables and Identifiers-A variable is a named memory location used to store data values.Rules for Identifiers:Must start with a letter (A–Z, a–z) or underscore _, cannot start with a digit, case-sensitive and should not use Python keywords
 
 5. Data Types in Python-Python provides several built-in data types to store different kinds of data.Basic Data Types-Integer (int): Whole numbers, Floating-point (float): Decimal numbers, String (str): Sequence of characters and Boolean (bool): True or False.The data type of a variable can be identified using the type() function.
 
