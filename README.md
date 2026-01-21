@@ -4,7 +4,7 @@
 # THEORY
 Python is a high-level, interpreted, and general-purpose programming language created by Guido van Rossum in 1991. It is designed to be simple, readable, and easy to learn, making it popular among beginners and professionals.
 
-TOPICS TO BE COVERED
+1.TOPICS TO BE COVERED
  1. Python installation, IDLE/Pycharm/Jupiter Notebook
  2. Variable and Data types
  3. Input and Output
