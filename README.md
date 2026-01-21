@@ -4,7 +4,7 @@
 # THEORY
 Python is a high-level, interpreted, and general-purpose programming language created by Guido van Rossum in 1991. It is designed to be simple, readable, and easy to learn, making it popular among beginners and professionals.
 
-1.TOPICS TO BE COVERED
+1. TOPICS TO BE COVERED
  1. Python installation, IDLE/Pycharm/Jupiter Notebook
  2. Variable and Data types
  3. Input and Output
@@ -13,8 +13,10 @@ Python is a high-level, interpreted, and general-purpose programming language cr
  6. Loops(for,while)
  7. Functions
  8. Basic Problem Sloving
+
 2. Python Execution Modes-Interactive Mode-a)Commands are executed one line at a time, b)Immediate output is displayed, c)Useful for testing small code snippets and learning
-3. 4. Variables and Identifiers-A variable is a named memory location used to store data values.
+
+3. Variables and Identifiers-A variable is a named memory location used to store data values.
 Rules for Identifiers:
 •	Must start with a letter (A–Z, a–z) or underscore _
 •	Cannot start with a digit
