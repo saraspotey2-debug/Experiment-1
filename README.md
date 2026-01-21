@@ -6,21 +6,24 @@ Python is a high-level, interpreted, and general-purpose programming language cr
 
 1. TOPICS TO BE COVERED
    a)Python installation, IDLE/Pycharm/Jupiter Notebook
+
    b)Variable and Data types
+
    c)Input and Output
+
    d)Operators
+
    e)Conditional Statements (if,else,elif)
+
    f)Loops(for,while)
+
    g)Functions
+
    h)Basic Problem Sloving
 
-2. Python Execution Modes-Interactive Mode-a)Commands are executed one line at a time, b)Immediate output is displayed, c)Useful for testing small code snippets and learning
-3. Variables and Identifiers-A variable is a named memory location used to store data values.
-Rules for Identifiers:
-•	Must start with a letter (A–Z, a–z) or underscore _
-•	Cannot start with a digit
-•	Case-sensitive
-•	Should not use Python keywords
+2. Python Execution Modes-Interactive Mode-a)Commands are executed one line at a time, b)Immediate output is displayed, c)Useful for testing small code snippets and learning.
+
+3. Variables and Identifiers-A variable is a named memory location used to store data values.Rules for Identifiers:a) Must start with a letter (A–Z, a–z) or underscore _, b)Cannot start with a digit, c)Case-sensitive and d)Should not use Python keywords
 5. Data Types in Python
 Python provides several built-in data types to store different kinds of data.
 Basic Data Types
