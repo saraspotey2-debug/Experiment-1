@@ -51,4 +51,4 @@ First math library is imported which calculates the value of log10 base 10 value
 4. End
 
 # CONCLUSION
-Python is a powerful, simple, and versatile programming language that is easy to learn and widely used in many fields such as web development, data science, artificial intelligence, automation, and software development. Its clear syntax helps beginners understand programming concepts quickly, while its large collection of libraries makes it useful for solving real-world problems efficiently. With strong community support and cross-platform compatibility.
+Python is a powerful, simple, and versatile programming language that is easy to learn. Its clear syntax helps beginners understand programming concepts quickly, while its large collection of libraries makes it useful for solving real-world problems efficiently. With strong community support and cross-platform compatibility.
