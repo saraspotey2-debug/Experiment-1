@@ -3,84 +3,62 @@
  To understand the basis of python programming and write simple programs.
 # THEORY
 Python is a high-level, interpreted, and general-purpose programming language created by Guido van Rossum in 1991. It is designed to be simple, readable, and easy to learn, making it popular among beginners and professionals.
-# TOPICS TO BE COVERED
-1. Python installation, IDLE/Pycharm/Jupiter Notebook
-2. Variable and Data types
-3. Input and Output
-4. Operators
-5. Conditional Statements (if,else,elif)
-6. Loops(for,while)
-7. Functions
-8. Basic Problem Sloving
-# CODE-1
-In code 1,variables are declared with strings and we want only the string of x so print x.
-# ALGORITHM
-1. Start
-2. Initiallising the strings to variables
-3. Printing x
-4. End 
-# CODE-2
-In x integer is declared, in y floating point is declared, in z and w string and boolean value is put and to know its type command print(type(x)) etc is put.
-# ALGORITHM
-1. Start 
-2. putting the integer, float, string and boolean in x,y,z and w respectively.
-3. printing the type of x,y,z and w
-4. End
-# CODE-3
-values are assigned to x and y and different operations are performed for example- addition,subtraction, multiplication etc.
-# ALGORITHM
-1. Start
-2. declaring values of x and y in one line
-3. Performing various operations like addition, subtraction etc and printing the result
-4. End
-# CODE-4
-Values are taken from the user and then the operations are performed.
-# ALGORITHM
-1. Start
-2. Taking the values of x and y from the user
-3. Performing different operations and printing the results.
-4. End
-# CODE-5
+1.TOPICS TO BE COVERED
+ 1. Python installation, IDLE/Pycharm/Jupiter Notebook
+ 2. Variable and Data types
+ 3. Input and Output
+ 4. Operators
+ 5. Conditional Statements (if,else,elif)
+ 6. Loops(for,while)
+ 7. Functions
+ 8. Basic Problem Sloving
+2. Python Execution Modes-Interactive Mode-a)Commands are executed one line at a time, b)Immediate output is displayed, c)Useful for testing small code snippets and learning
+3. 4. Variables and Identifiers-A variable is a named memory location used to store data values.
+Rules for Identifiers:
+•	Must start with a letter (A–Z, a–z) or underscore _
+•	Cannot start with a digit
+•	Case-sensitive
+•	Should not use Python keywords
+4. Data Types in Python
+Python provides several built-in data types to store different kinds of data.
+Basic Data Types
+•	Integer (int): Whole numbers
+•	Floating-point (float): Decimal numbers
+•	String (str): Sequence of characters
+•	Boolean (bool): True or False
+The data type of a variable can be identified using the type() function.
+5. 6. Operators and Expressions
+Operators are symbols used to perform operations on variables and values.
+Types of Operators
+•	Arithmetic Operators: Used for mathematical calculations
+(+, -, *, /, %)
+•	Relational Operators: Used for comparison
+(>, <, >=, <=, ==, !=)
+•	Logical Operators: Used to combine conditions
+(and, or, not)
+•	Assignment Operators: Used to assign values
+(=, +=, -=, *=, /=)
+•	Bitwise Operators: Perform operations at bit level
+(&, |, ^, <<, >>)
+An expression is a combination of operators and operands that produces a result.
+
+
+
+# Algorithm-1
 First value of r is taken from the user and then math library is imported which automatically calculates the value of pi in the formula of area of circle and then prints the value.
-# ALGORITHM
 1. Start
 2. Taking the value of radius from the user
 3. importing math library
 4. Putting the formula of area of circle
 5. Printing the area
 6. End
-# CODE-6
+# Algorithm-2
 First math library is imported which calculates the value of log10 base 10 value.
-# ALGORITHM
 1. Start
 2. importing math library
 3. printing the value of log10 base 10
 4. End
-# CODE-7
-Initiallizing the value of a and b and then checking wheather b is greater than a or not by using if else statement.
-# ALGORITHM
-1. Start
-2. initiallising the values of a and b
-3. Checking wheather b is greater than a or not using if else statement
-4. End 
-# DIFFERENT DATA TYPES IN PYTHON:
-1.int – whole numbers (e.g., 10, -5)
 
-2.float – decimal numbers (e.g., 3.14)
-
-3.complex – complex numbers (e.g., 2+3j)
-
-4.bool – True or False
-
-5.str – text / characters (e.g., "Hello")
-
-6.list – ordered, changeable collection (e.g., [1, 2, 3])
-
-7.tuple – ordered, unchangeable collection (e.g., (1, 2, 3))
-
-8.set – unordered, unique values (e.g., {1, 2, 3})
-
-9.dict – key–value pairs (e.g., {"a": 1})
 # FEATURES OF PYTHON:
 Simple and readable syntax – code looks close to English.
 
