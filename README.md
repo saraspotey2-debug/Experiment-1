@@ -5,47 +5,29 @@
 Python is a high-level, interpreted, and general-purpose programming language created by Guido van Rossum in 1991. It is designed to be simple, readable, and easy to learn, making it popular among beginners and professionals.
 
 1. TOPICS TO BE COVERED
-   a)Python installation, IDLE/Pycharm/Jupiter Notebook
+   a) Python installation, IDLE/Pycharm/Jupiter Notebook
 
-   b)Variable and Data types
+   b) Variable and Data types
 
-   c)Input and Output
+   c) Input and Output
 
-   d)Operators
+   d) Operators
 
-   e)Conditional Statements (if,else,elif)
+   e) Conditional Statements (if,else,elif)
 
-   f)Loops(for,while)
+   f) Loops(for,while)
 
-   g)Functions
+   g) Functions
 
-   h)Basic Problem Sloving
+   h) Basic Problem Sloving
 
-2. Python Execution Modes-Interactive Mode-a)Commands are executed one line at a time, b)Immediate output is displayed, c)Useful for testing small code snippets and learning.
+2. Python Execution Modes-Interactive Mode-a) Commands are executed one line at a time, b) Immediate output is displayed and c) Useful for testing small code snippets and learning.
 
-3. Variables and Identifiers-A variable is a named memory location used to store data values.Rules for Identifiers:a) Must start with a letter (A–Z, a–z) or underscore _, b)Cannot start with a digit, c)Case-sensitive and d)Should not use Python keywords
-5. Data Types in Python
-Python provides several built-in data types to store different kinds of data.
-Basic Data Types
-•	Integer (int): Whole numbers
-•	Floating-point (float): Decimal numbers
-•	String (str): Sequence of characters
-•	Boolean (bool): True or False
-The data type of a variable can be identified using the type() function.
-6. 6. Operators and Expressions
-Operators are symbols used to perform operations on variables and values.
-Types of Operators
-•	Arithmetic Operators: Used for mathematical calculations
-(+, -, *, /, %)
-•	Relational Operators: Used for comparison
-(>, <, >=, <=, ==, !=)
-•	Logical Operators: Used to combine conditions
-(and, or, not)
-•	Assignment Operators: Used to assign values
-(=, +=, -=, *=, /=)
-•	Bitwise Operators: Perform operations at bit level
-(&, |, ^, <<, >>)
-An expression is a combination of operators and operands that produces a result.
+3. Variables and Identifiers-A variable is a named memory location used to store data values.Rules for Identifiers:a) Must start with a letter (A–Z, a–z) or underscore _,b) Cannot start with a digit,c) Case-sensitive and d)Should not use Python keywords
+
+4. Data Types in Python-Python provides several built-in data types to store different kinds of data.Basic Data Types-Integer (int): Whole numbers, Floating-point (float): Decimal numbers, String (str): Sequence of characters and Boolean (bool): True or False.The data type of a variable can be identified using the type() function.
+
+5. Operators and Expressions:Operators are symbols used to perform operations on variables and values.Types of Operators-Arithmetic Operators: Used for mathematical calculations(+, -, *, /, %), Relational Operators: Used for comparison(>, <, >=, <=, ==, !=), Logical Operators: Used to combine conditions(and, or, not), Assignment Operators: Used to assign values (=, +=, -=, *=, /=) and Bitwise Operators: Perform operations at bit level(&, |, ^, <<, >>). An expression is a combination of operators and operands that produces a result.
 
 
 
